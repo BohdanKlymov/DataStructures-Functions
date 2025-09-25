@@ -1,4 +1,4 @@
-# DataStructures-Functions
+# DataStructures
 
 This repository contains a collection of small projects and exercises created to practice the basics of programming in Python. The examples are beginner-friendly and cover fundamental concepts such as:
 
